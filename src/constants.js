@@ -26,7 +26,7 @@ export const dialogueData = {
   The text is rendered using HTML/CSS. Therefore, the text box you are reading now is not displayed on the canvas.
   In general, this is an additional way to tell you that I am looking for my first job as a front-end developer`,
 
-  library: `There are a lot of books on my shelves, including programming books. But i have a question. Who else compulsively buys books without ever finishing them?
+  library: `There are a lot of books on my shelves, including programming books. But i have a question. Who else compulsively buys books without ever finishing them?<br>
   Among the books, you can find notebooks that I create in my free time. <a href="https://www.instagram.com/vasinu_bloknotu?igsh=MXRpcjFzdXMwOTRpcA==" target="_blank">Check them out</a>`,
 
   exit: `Do you want to leave? A kindly reminder: to contribute to Ukraine's victory - <a href="https://savelife.in.ua/donate/#donate-army-card-monthly" target="_blank">click here.</a> And if you want to exit this portfolio, just close the tab.`,
